@@ -20,5 +20,5 @@ estatura = float(input("Indique la estatura e metros: "))
 
 imcResultado = pesoKilos / (estatura**2)
 
-print(nombreNombre + nombreApaterno + nombreAmaterno)
+print(f"{nombreNombre} {nombreApaterno} {nombreAmaterno}")
 print(f"su indice de masa corporal es:{imcResultado}" )
