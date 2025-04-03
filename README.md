@@ -1,6 +1,6 @@
 Practicas y Entregables Curso Phyton
 
-Sirva el presente para definir que se realiza la entrega de las actividades a ser evaluadas para el curso de Pyto
+Sirva el presente para definir que se realiza la entrega de las actividades a ser evaluadas para el curso de Phyton
 
 Se entgrega las dos actividades para el M2
 
