@@ -9,3 +9,7 @@ Se entgrega las dos actividades para el M2
 
 2.-Identificar el cuadrante en que se encuentra el valor de coordenadas x, y.  (ProyectCuadrante.py)
     Al indicar el valor x,y de una coordenada, el sistema identifica en que cuadrante se localiza, en este programa el usuario puede definir cuantas coordenadas desea consultar.
+
+Se entgrega las dos actividades para el M3
+
+    Maquina de Galton que se encuentra dentro de la carpeta de Modulo 3
